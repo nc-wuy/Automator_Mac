@@ -13,3 +13,5 @@ Note:
 	1. The scheduled job will be skipped if computer is shut down, but may run if sleep. To change scheduled time, change com.nextcapital.load_market_data.plist file accordingly. The default time is set to 13:00 each day.
 	
 	2. Market-Date-Updater try to find appserver code at ~/code/appserver, so configuration is required if your appserver code is located elsewhere. Change this app using Application/Utilities/Automator.
+	
+	3. OS X System is required.
